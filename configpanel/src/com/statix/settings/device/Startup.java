@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.settings.device;
+package com.statix.settings.device;
 
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;
@@ -26,8 +26,8 @@ import android.util.Log;
 
 import java.io.File;
 
-import com.dirtyunicorns.settings.device.utils.Constants;
-import com.dirtyunicorns.settings.device.utils.FileUtils;
+import com.statix.settings.device.utils.Constants;
+import com.statix.settings.device.utils.FileUtils;
 
 public class Startup extends BroadcastReceiver {
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.settings.device.utils;
+package com.statix.settings.device.utils;
 
 import android.util.Log;
 

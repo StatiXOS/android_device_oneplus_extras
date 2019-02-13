@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.settings.device;
+package com.statix.settings.device;
 
-import com.dirtyunicorns.settings.device.utils.NodePreferenceActivity;
+import com.statix.settings.device.utils.NodePreferenceActivity;
 
 import android.os.Bundle;
 import android.provider.Settings;
